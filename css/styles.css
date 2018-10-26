@@ -1,0 +1,15 @@
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  }
+
+.myMap{
+  height: 100vh;
+}
+
+/* Set the size of the div element that contains the map */
+#map {
+  height: 100%;
+}
